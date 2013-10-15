@@ -1,0 +1,5 @@
+Steps To Create New YII Project
+
+cd yii\framework
+
+yiic webapp ..\..\MyTestProjectName
